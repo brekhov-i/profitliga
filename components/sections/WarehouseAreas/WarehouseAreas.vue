@@ -25,7 +25,7 @@
 const carts = ref([
   {
     images: {
-      1440: '/images/warehouseAreasCarts/cart1-1440.png'
+      1440: 'images/warehouseAreasCarts/cart1-1440.png'
     },
     title: 'Участок приёмки',
     listItems: [
@@ -36,7 +36,7 @@ const carts = ref([
   },
   {
     images: {
-      1440: '/images/warehouseAreasCarts/cart2-1440.png'
+      1440: 'images/warehouseAreasCarts/cart2-1440.png'
     },
     title: 'Участок размещения',
     listItems: [
@@ -47,7 +47,7 @@ const carts = ref([
   },
   {
     images: {
-      1440: '/images/warehouseAreasCarts/cart3-1440.png'
+      1440: 'images/warehouseAreasCarts/cart3-1440.png'
     },
     title: 'Участок отбора',
     listItems: [
@@ -58,7 +58,7 @@ const carts = ref([
   },
   {
     images: {
-      1440: '/images/warehouseAreasCarts/cart4-1440.png'
+      1440: 'images/warehouseAreasCarts/cart4-1440.png'
     },
     title: 'Участок контроля',
     listItems: [
