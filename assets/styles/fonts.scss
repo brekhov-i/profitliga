@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Arial Narrow';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Arial Narrow'),
+    url("public/fonts/ArialNarrow.woff2") format('woff2'),
+    url("public/fonts/ArialNarrow.woff") format('woff');
+}
+
+@font-face {
+  font-family: 'Arial Narrow';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Arial Narrow'),
+  url("public/fonts/ArialNarrow-Bold.woff2") format('woff2'),
+  url("public/fonts/ArialNarrow-Bold.woff") format('woff');
+}
